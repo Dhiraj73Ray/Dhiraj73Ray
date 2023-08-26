@@ -21,6 +21,8 @@ Howdy, I'm Dhiraj Ray. I'm a passionate Tech Lover Inspired by Inifinite Possibi
 <p>All of my projects are available at <a href="#"></a>https://dhiraj73ray.github.io/project</p> 
 <p>⚡ Fun Fact: I love memes</p> 
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ## 💻 Skills 
 <p> 
 <img src="https://img.shields.io/badge/Python-GREEN?style=for-the-badge&logo=python&logoColor=BLACK" style="margin-bottom: 5px;" height="30px"> 
