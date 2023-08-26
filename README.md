@@ -12,6 +12,7 @@ Howdy, I'm Dhiraj Ray. I'm a passionate Tech Lover Inspired by Inifinite Possibi
 <a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;" height="30px" target="_blank"></a> 
 <a href="#"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="margin-bottom: 5px;" height="30px" target="_blank"></a> 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harshtrivedi) 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## 💫 Liitle Bit More About Me 
 <p>🌱 I'm currently learning ReactJS, MongoDB, Flask</p> 
@@ -21,7 +22,7 @@ Howdy, I'm Dhiraj Ray. I'm a passionate Tech Lover Inspired by Inifinite Possibi
 <p>All of my projects are available at <a href="#"></a>https://dhiraj73ray.github.io/project</p> 
 <p>⚡ Fun Fact: I love memes</p> 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 ## 💻 Skills 
 <p> 
