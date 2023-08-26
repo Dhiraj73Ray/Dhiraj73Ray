@@ -15,7 +15,7 @@ Howdy, I'm Dhiraj Ray. I'm a passionate Tech Lover Inspired by Inifinite Possibi
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## 💫 Liitle Bit More About Me 
-<p>🌱 I'm currently learning ReactJS, MongoDB, Flask</p> 
+<p>🌱 I'm currently learning ReactJS, PowerBI, Flask</p> 
 <p>💬 Ask me about Python, Web-Development, Machine Learning, Graphic Designing</p> 
 <p>📫 How to reach me? <a href="#">dhiraj73ray.com</a></p> 
 <!-- <p>I used to regularly write articles on <a href="https://www.techetarian.com">Techetarian</a></p>  -->
